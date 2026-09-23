@@ -1,0 +1,21 @@
+[{
+  "column_name": "webname",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "dt_fact",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "time_treshold",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "dt_reg_fake",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "dt_checkin_day1_fake",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}]

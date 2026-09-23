@@ -1,0 +1,21 @@
+[{
+  "column_name": "utm_source",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "targetolog",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "channel",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "channel_aggregated",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "webname",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}]

@@ -1,0 +1,17 @@
+[{
+  "column_name": "payment_method",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "commission",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "dt_start",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "dt_end",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}]
