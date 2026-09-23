@@ -1,0 +1,33 @@
+[{
+  "column_name": "type",
+  "data_type": "INT64",
+  "is_nullable": "YES"
+}, {
+  "column_name": "is_editable",
+  "data_type": "BOOL",
+  "is_nullable": "YES"
+}, {
+  "column_name": "color",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "status_id",
+  "data_type": "INT64",
+  "is_nullable": "YES"
+}, {
+  "column_name": "sort",
+  "data_type": "INT64",
+  "is_nullable": "YES"
+}, {
+  "column_name": "status_name",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "pipeline_name",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "pipeline_id",
+  "data_type": "INT64",
+  "is_nullable": "YES"
+}]
