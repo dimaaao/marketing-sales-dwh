@@ -1,0 +1,37 @@
+[{
+  "column_name": "account_id",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "account_name",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "targetolog_name",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "dt_from",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "dt_till",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "type_of_download",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "check_doubles",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "platform_type",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_source_reserv",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}]

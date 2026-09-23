@@ -1,0 +1,61 @@
+[{
+  "column_name": "account_id",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "account_name",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "ad_id",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "date",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "spend",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "impressions",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "clicks",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_source",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_medium",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_campaign",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_content",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_term",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "destination_url",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "image_url",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "ingested_at",
+  "data_type": "TIMESTAMP",
+  "is_nullable": "YES"
+}]
