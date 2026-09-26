@@ -1,9 +1,9 @@
 with
-raw_sales as (select * from `beibit-499311.amo.amo_view`),
-raw_regs as (select * from `beibit-499311.regs.regs_view`),
-raw_checkins as (select * from `beibit-499311.checkins.checkins_view`),
-raw_costs as (select * from `beibit-499311.beibit_costs.cost_view`),
-raw_apps as (select * from `beibit-499311.views.application_view`),
+raw_sales as (select * from `amo_view`),
+raw_regs as (select * from `regs_view`),
+raw_checkins as (select * from `checkins_view`),
+raw_costs as (select * from `cost_view`),
+raw_apps as (select * from `application_view`),
 
 -- общий по меткам (добавлены даты dt_potok)
 utm_dict as (select distinct dt, utm_source, utm_medium, utm_campaign, utm_content, utm_term from
@@ -437,7 +437,7 @@ group by
   d.dt, d.utm_source, d.utm_medium, d.utm_campaign, d.utm_content, d.utm_term
 ),
 
-dict_source as (select * from `beibit-499311.dicts.dict_source`)
+dict_source as (select * from `dict_source`)
 
 select 
   f.*,
