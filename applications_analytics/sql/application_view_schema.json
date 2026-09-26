@@ -1,0 +1,165 @@
+[{
+  "column_name": "name",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "email",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "phone",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_source",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_medium",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_campaign",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_content",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_term",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "lead_status_name",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "old_lead_status_name",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "r_sourse",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "r_medium",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "r_campaign",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "r_content",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "r_term",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "tip_trafika",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "web_date",
+  "data_type": "DATE",
+  "is_nullable": "YES"
+}, {
+  "column_name": "b_sourse",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "b_medium",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "b_campaign",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "b_content",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "b_term",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "min_on_web",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES"
+}, {
+  "column_name": "z_sourse",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "application_date",
+  "data_type": "DATE",
+  "is_nullable": "YES"
+}, {
+  "column_name": "application_dtime",
+  "data_type": "DATETIME",
+  "is_nullable": "YES"
+}, {
+  "column_name": "lead_id",
+  "data_type": "INT64",
+  "is_nullable": "YES"
+}, {
+  "column_name": "lead_name",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "lead_tags",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "manager",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "source_system",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "num_of_apps",
+  "data_type": "INT64",
+  "is_nullable": "YES"
+}, {
+  "column_name": "num_of_apps_visit_web",
+  "data_type": "INT64",
+  "is_nullable": "YES"
+}, {
+  "column_name": "num_of_succes_apps",
+  "data_type": "INT64",
+  "is_nullable": "YES"
+}, {
+  "column_name": "targetolog",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "channel",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "channel_aggregated",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "webname",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "dt_potok",
+  "data_type": "DATE",
+  "is_nullable": "YES"
+}, {
+  "column_name": "prev_app_dtime",
+  "data_type": "DATETIME",
+  "is_nullable": "YES"
+}, {
+  "column_name": "num_of_uniq_apps",
+  "data_type": "INT64",
+  "is_nullable": "YES"
+}]
