@@ -1,0 +1,97 @@
+[{
+  "column_name": "domen",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "dtime_of_reg",
+  "data_type": "DATETIME",
+  "is_nullable": "YES"
+}, {
+  "column_name": "dt",
+  "data_type": "DATE",
+  "is_nullable": "YES"
+}, {
+  "column_name": "hour_of_reg",
+  "data_type": "INT64",
+  "is_nullable": "YES"
+}, {
+  "column_name": "dt_first_month",
+  "data_type": "DATE",
+  "is_nullable": "YES"
+}, {
+  "column_name": "name",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "phone",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "formid",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_source",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_medium",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_campaign",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_content",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_term",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "pod_domen",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "num_of_regs",
+  "data_type": "INT64",
+  "is_nullable": "YES"
+}, {
+  "column_name": "targetolog",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "channel",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "channel_aggregated",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "webname",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "time_treshold",
+  "data_type": "FLOAT64",
+  "is_nullable": "YES"
+}, {
+  "column_name": "dt_for_shifts",
+  "data_type": "DATE",
+  "is_nullable": "YES"
+}, {
+  "column_name": "dt_potok",
+  "data_type": "DATE",
+  "is_nullable": "YES"
+}, {
+  "column_name": "prev_reg_dtime",
+  "data_type": "DATETIME",
+  "is_nullable": "YES"
+}, {
+  "column_name": "num_of_uniq_regs",
+  "data_type": "INT64",
+  "is_nullable": "YES"
+}]
