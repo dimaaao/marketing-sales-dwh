@@ -1,0 +1,5 @@
+[{
+  "column_name": "pod_domen",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}]

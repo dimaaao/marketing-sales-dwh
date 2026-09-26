@@ -1,0 +1,53 @@
+[{
+  "column_name": "created",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "email",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "name",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "phone",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "formid",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "formname",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "referer",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "checkbox",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_source",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_medium",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_campaign",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_content",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_term",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}]
