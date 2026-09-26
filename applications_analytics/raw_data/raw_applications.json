@@ -1,0 +1,153 @@
+[{
+  "column_name": "name",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "email",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "phone",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_source",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_medium",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_campaign",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_content",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_term",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "__from",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_status_id",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_pipeline_id",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_status_name",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_old_status_id",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_old_pipeline_id",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_old_status_name",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_rterm",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_rcontent",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_rcampaing",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_rmedium",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_rsourse",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_tip-trafika",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_data-veba",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_bcontent",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_bcampaing",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_bterm",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_bmedium",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_bsourse",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_byl-minut--",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_zsourse",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_data-ostavleniya-zayavki",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_lead_id",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_lead_name",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_tags_text",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_price",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_user_id",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_user_name",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "amo_user_email",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "received_at",
+  "data_type": "TIMESTAMP",
+  "is_nullable": "YES"
+}]
