@@ -1,0 +1,49 @@
+[{
+  "column_name": "webinar_date",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "phone",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "email",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "watch_start_time",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_source",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_medium",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_campaign",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_content",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "utm_term",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "watched_to_end",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "webroom_id",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}, {
+  "column_name": "watch_end_time",
+  "data_type": "STRING",
+  "is_nullable": "YES"
+}]
